@@ -17,9 +17,9 @@ const cart = useCart()
           <img src="/images-cloud/user_account_profile_icon.svg" alt="profile" width="24" height="24" class="rounded-circle">
         </a>
         <ul class="dropdown-menu text-small shadow" aria-labelledby="dropdownUser2" style="">
-          <li><router-link class="dropdown-item" to="/sign-in/">Sign-in</router-link></li>
+          <li><router-link class="dropdown-item" to="/sign-in/">Войти</router-link></li>
           <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="/register/">Register</a></li>
+          <li><a class="dropdown-item" href="/register/">Регистрация</a></li>
         </ul>
       </div>
       <div class="shopping-cart">
