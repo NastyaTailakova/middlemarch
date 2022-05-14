@@ -1,50 +1,50 @@
 {
   "books": [
     {
-      "title": "The Memory Police",
-      "author": "Yoko Ogawa",
+      "title": "Полиция памяти",
+      "author": "Йоко Огава",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
       "price": 14.72,
-      "currency": "$",
-      "category": "Science Fiction > Dystopian",
+      "currency": "руб.",
+      "category": "Научная фантастика > Антиутопия",
       "isbn13": 9781101911815,
-      "description": "On an unnamed island, objects are disappearing: first hats, then ribbons, birds, roses..."
+      "description": "На безымянном острове исчезают предметы: сначала шляпы, затем ленты, птицы, розы..."
     },
 
     {
-      "title": "Rhinoceros and Other Plays",
-      "author": "Eugène Ionesco",
+      "title": "Носорог и другие пьесы",
+      "author": "Эжен Ионеско",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347454436l/323823.jpg",
       "price": 16.00,
-      "currency": "$",
-      "category": "Plays > Theatre",
-      "publisher": "Grove Press",
+      "currency": "руб.",
+      "category": "Пьесы > Театр",
+      "publisher": "Роща",
       "isbn13": 9780802130983,
-      "description": "A rhinoceros suddenly appears in a small town, tramping through its peaceful streets."
+      "description": "Носорог внезапно появляется в маленьком городке, прогуливаясь по его мирным улицам."
     },
 
     {
-      "title": "Memento Mori",
-      "author": "Muriel Spark",
+      "title": "Помни о смерти",
+      "author": "Мюриэль Спарк",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348186701l/120158.jpg",
       "price": 15.90,
-      "currency": "$",
-      "category": "Novels",
+      "currency": "руб.",
+      "category": "Романы",
       "isbn13": 9780811223041,
-      "publisher": "New Directions Publishing Corporation",
-      "description": "In late 1950s London, something uncanny besets a group of elderly friends."
+      "publisher": "Издательская корпорация Новые направления",
+      "description": "В Лондоне конца 1950-х годов что-то сверхъестественное происходит с группой пожилых друзей."
     },
 
     {
-      "title": "Atlas of AI",
-      "author": "Kate Crawford",
+      "title": "Атлас искусственного интеллекта",
+      "author": "Кейт Кроуфорд",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603542518l/50131136._SX318_.jpg",
       "price": 25.76,
-      "currency": "$",
-      "category": "Nonfiction > Technology",
-      "publisher": "Yale University Press",
+      "currency": "руб.",
+      "category": "Научная литература > Технология",
+      "publisher": "Издательство Йельского университета",
       "isbn13": 9780300209570,
-      "description": "The hidden costs of artificial intelligence--from natural resources and labor to privacy, equality, and freedom"
+      "description": "Скрытые издержки искусственного интеллекта - от природных ресурсов и рабочей силы до конфиденциальности, равенства и свободы"
     }
   ]
 }

@@ -15,14 +15,14 @@ describe('New Arrivals Component Test', function() {
           body: {
             books: [
               {
-                "title": "The Memory Police",
-                "author": "Yoko Ogawa",
+                "title": "Полиция памяти",
+                "author": "Йоко Огава",
                 "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
                 "price": 14.72,
-                "currency": "$",
-                "category": "Science Fiction > Dystopian",
+                "currency": "руб.",
+                "category": "Научная фантастика > Антиутопия",
                 "isbn13": 9781101911815,
-                "description": "On an unnamed island, objects are disappearing: first hats, then ribbons, birds, roses..."
+                "description": "На безымянном острове исчезают предметы: сначала шляпы, затем ленты, птицы, розы..."
               }
             ]
           }
